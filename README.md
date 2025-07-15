@@ -175,3 +175,13 @@
 | 浏览器       | Edge、Chrome                              |
 | 应用框架     | JFinal、Vue                               |
 | 本地编译器   | IDEA、WebStorm、HBuilderx                 |
+
+## 项目参与人员  
+- 柴向荣  
+- 程荣鑫  
+- 张玉杰  
+- 周舟  
+- 竺盈莹  
+- 张佳婧  
+- 陈思铄  
+- 王道立
